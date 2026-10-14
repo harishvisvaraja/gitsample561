@@ -1,1 +1,1 @@
-GI
+Hi, this sample for pull command
